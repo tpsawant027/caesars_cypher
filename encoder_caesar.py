@@ -16,4 +16,4 @@ def encoder(message: str,offset: int):
 
 
 if __name__ == '__main__':
-    encrypter("Hello World!", 5)
+    encoder("Hello World!", 5)
